@@ -1,0 +1,15 @@
+{
+  "name": "single-loading",
+  "version": "1.0.3",
+  "main": "index.js",
+	"keywords": "Vue Loading",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wujidong",
+  "license": "ISC",
+  "description": "a simple loading for vue project welcome to use it !",
+  "directories": {
+    "lib": "lib"
+  }
+}
